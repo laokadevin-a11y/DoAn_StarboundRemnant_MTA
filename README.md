@@ -4,7 +4,7 @@
 * **Tên đề tài:** Game 3D Action-Adventure "Starbound Remnant"
 * **Sinh viên thực hiện:** Phạm Tiến Đạt
 * **Mã sinh viên:** 2924124641
-* **Lớp:** TH29.23 | Viện Công nghệ Thông tin - MTA
+* **Lớp:** TH29.23 | Công nghệ Thông tin - MTA
 
 ---
 
